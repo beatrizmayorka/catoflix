@@ -10,4 +10,4 @@
 
 ###### O diagrama abaixo representa um caso de uso com as funcionalidades da aplicação enquanto o usuário está acessando a interface gráfica.
 
-![Diagrama de Caso de Uso](img\caso_de_uso.png)
+![Diagrama de Caso de Uso](https://github.com/beatrizmayorka/catoflix/blob/main/catoflix/img/caso_de_uso.png.png)
