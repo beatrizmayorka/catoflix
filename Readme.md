@@ -2,7 +2,17 @@
 
 ###### Catoflix é uma aplicação web que consome uma API externa e pública de filmes e tv shows a partir de uma key (chave) disponibilizada somente para esta aplicação, através de uma requisição de API no site do The Movie Database (TMDB).
 
-###### Site TMDB -> https://www.themoviedb.org/
+* TMDB -> https://www.themoviedb.org/
+
+
+## Aprenda um pouco sobre o que foi colocado no projeto
+
+ * Vite -> https://vitejs.dev/
+ 
+ * React -> https://pt-br.reactjs.org/
+ 
+ * JavaScript -> https://www.javascript.com/
+
 
 ## Diagrama de caso de uso
 
