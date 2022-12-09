@@ -2,17 +2,47 @@
 
 ###### Catoflix é uma aplicação web que consome uma API externa e pública de filmes e tv shows a partir de uma key (chave) disponibilizada somente para esta aplicação, através de uma requisição de API no site do The Movie Database (TMDB).
 
-* TMDB -> https://www.themoviedb.org/
+> [TMDB](https://www.themoviedb.org/)
 
+## Instituição Educacional
 
-## Aprenda um pouco sobre o que foi colocado no projeto
+> [Centro Universitário Católica de Santa Catarina](https://www.catolicasc.org.br/)
 
- * Vite -> https://vitejs.dev/
+## Autora do Projeto
+
+> [Beatriz Mayorka de Aguiar](https://r.search.yahoo.com/_ylt=AwrFFBHUbpNjd.kKuDfz6Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1670635349/RO=10/RU=https%3a%2f%2fbr.linkedin.com%2fin%2fbeatriz-mayorka-de-aguiar-a40951198/RK=2/RS=HrNrLjPq9NAs0X_mJL3nVV95YUw-)
+
+## Professor Orientador
+
+> [Diogo Winck](https://github.com/dvwinck)
+
+## Controle de Tarefas - Trello
+
+* [Kanban do Projeto](https://trello.com/b/OHCqcUeJ/portif%C3%B3lio-de-projeto)
+
+## Objetivo do Projeto
+
+###### Este projeto teve como objetivo criar um portal, onde o usuário pudesse visualizar o ranking de melhores filmes do momento. Ele teria a possilidade de visualizar as informações sobre o filme, poderia pesquisar qualquer filme de sua escolha e teria o retorno do mesmo. 
+
+###### Para que o usuário obtivesse acesso às informormações, seria necessário que o projeto consumisse uma API externa e aberta ao público, que contivesse os filmes, tv shows, etc..., e informações sobre eles.
+
+###### A aplicação apresenta a interface onde o usuário pode visualizar o ranking de melhores produtos audiovisuais disponíveis, pesquisar o produto audiovisual de sua escolha e visualizar informações sobre o mesmo, estas que, por sua vez, estão em inglês por serem informações vindas de uma API de fora.  
+
+## Aprenda um pouco sobre as tecnologias utilizadas no projeto
+
+ > [Vite](https://vitejs.dev/)
  
- * React -> https://pt-br.reactjs.org/
+ > [React](https://pt-br.reactjs.org/)
  
- * JavaScript -> https://www.javascript.com/
-
+ > [JavaScript](https://www.javascript.com/)
+ 
+ > [Jest](https://jestjs.io/pt-BR/)
+ 
+ 
+ ## Como rodar o código
+ 
+ - `npm install`
+ - `npm run dev`
 
 ## Diagrama de caso de uso
 
